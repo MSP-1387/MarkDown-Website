@@ -1,3 +1,3 @@
 ## *c*
 
-[main](Back To Home)
+[main](index.md)

@@ -1,4 +1,4 @@
 # **Hello**
-[a](Photos)
-[b](Videos)
-[c](Contact-Us)
+[A](a.md)
+[B](b.md)
+[C](c.md)
