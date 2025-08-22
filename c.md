@@ -1,3 +1,3 @@
 ## *c*
 
-[main.d](Back To Home)
+[main](Back To Home)
